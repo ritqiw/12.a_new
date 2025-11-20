@@ -1,1 +1,2 @@
 print ('Olga Macko')
+print ('ku-ku vsem!')
